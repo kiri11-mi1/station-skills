@@ -1,4 +1,4 @@
-# station-skills
+# station-skills [![Deploy](https://github.com/kiri11-mi1/station-skills/actions/workflows/deploy.yml/badge.svg)](https://github.com/kiri11-mi1/station-skills/actions/workflows/deploy.yml)
 
 ### Description
 Monorepository for Yandex station skills
